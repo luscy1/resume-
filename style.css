@@ -1,0 +1,41 @@
+header{
+  font-family: times new roman;
+}
+
+body{
+  margin:0px;
+  border:black 15px double;
+  border-color: black;
+  
+
+}
+
+h1{
+  margin:0px;
+  letter-spacing:3px;
+  text-transform:uppercase;
+  padding: 15px;
+
+}
+
+h1{
+  margin:0px;
+  letter-spacing:3px;
+  text-transform:uppercase;
+  padding: 15px;
+
+}
+
+.font-iceblue{
+  color: black;
+  background-color:azure;
+
+}
+
+#h1{
+  color: #4275a8;
+  background-color: beige
+  padding: 25px;
+  border: solid 3px black;
+}
+
